@@ -18,8 +18,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Wis an Associate Researcher at Telefónica Research. Prior to this, he was a postdoctoral researcher at the Barcelona Neural Networking center (BNN-UPC). He holds a Ph.D. in Computer Science from the Universitat Politècnica de Catalunya (UPC), in 2020, and a B.Sc and M.Sc. degrees in Telecommunication Engineering from the Universidad de Granada (UGR). He was co-Principal Investigator of the IGNNITION project (H2020 NGI POINTER), and main organizer of the Graph Neural Networking challenge 2020-2022, an international competition co-organized with the ITU (United Nations). His main research interests are in the field of AI/ML applied to networking, including ML-assisted network control and management, traffic monitoring and analysis, and cybersecurity.
