@@ -12,15 +12,9 @@
 
             // Function to reveal the email and set as mailto link
             function revealEmail() {
-            var email = user + '@' + domain; // reassemble the email
-            var element = document.getElementById('email-link');
-            element.innerHTML = '<a href="mailto:' + email + '"><i class="fa fa-envelope"></i> ' + email + '</a>';
-            }
-
-            // Optional: remove the click event after revealing the email
-            function removeClickEvent(element) {
-            element.onclick = null;
-            element.title = "Email";
+            var email = decodeURIComponent(user) + '@' + decodeURIComponent(domain); // reassemble and decode the email
+            // Display the email address in a popup
+            window.alert("Email us at: " + email);
             }
             </script>
             {% endif %}
