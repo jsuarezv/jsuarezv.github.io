@@ -1,5 +1,28 @@
             {%- if site.email -%}
-            <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fa-solid fa-envelope"></i></a>
+            <!-- <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fa-solid fa-envelope"></i></a> -->
+            <!-- Envelope icon as a clickable element -->
+            <span id="email-link" onclick="revealEmail()">
+                <i class="fa-solid fa-envelope" aria-hidden="true" title="email"></i>
+            </span>
+
+            <script>
+            // Splitting the email address into parts
+            var user = '{{ site.email | encode_email | split: "@" | first }}';
+            var domain = '{{ site.email | encode_email | split: "@" | last }}';
+
+            // Function to reveal the email and set as mailto link
+            function revealEmail() {
+            var email = user + '@' + domain; // reassemble the email
+            var element = document.getElementById('email-link');
+            element.innerHTML = '<a href="mailto:' + email + '"><i class="fa fa-envelope"></i> ' + email + '</a>';
+            }
+
+            // Optional: remove the click event after revealing the email
+            function removeClickEvent(element) {
+            element.onclick = null;
+            element.title = "Email";
+            }
+            </script>
             {% endif %}
             {%- if site.telegram_username -%}
             <a href="https://telegram.me/{{ site.telegram_username }}" title="telegram"><i class="fa-brands fa-telegram"></i></a>
