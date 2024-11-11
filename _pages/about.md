@@ -19,8 +19,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <br>
-
-Hi! I am an Associate Research Scientist at Telefónica Research, from 2022. Prior to this, I was a postdoctoral researcher at the Barcelona Neural Networking center (BNN-UPC), from 2020 to 2022. I hold a Ph.D. in Computer Science from the Universitat Politècnica de Catalunya (UPC), in 2020, and a B.Sc and M.Sc. degrees in Telecommunication Engineering from the Universidad de Granada (UGR). Currently I work actively in several EU-funded and national projects at the intersection of Machine Learning and Communication Networks.
+<b>Check my email by clicking on the envelope below 👇👇</b>
+Hi! I am a Research Scientist at Telefónica Research, from 2022. Prior to this, I was a postdoctoral researcher at the Barcelona Neural Networking center (BNN-UPC), from 2020 to 2022. I hold a Ph.D. in Computer Science from the Universitat Politècnica de Catalunya (UPC), in 2020, and a B.Sc and M.Sc. degrees in Telecommunication Engineering from the Universidad de Granada (UGR). Currently I work actively in several EU-funded and national projects at the intersection of Machine Learning and Communication Networks.
 
 In the past, I was co-Principal Investigator of the IGNNITION project (H2020 NGI POINTER), and main organizer of the Graph Neural Networking challenge, an international competition co-organized with the ITU (United Nations).
 
