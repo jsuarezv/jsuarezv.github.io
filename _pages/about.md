@@ -34,6 +34,3 @@ The following is a non-exhaustive list of my research interests:
 - Graph-based Deep Learning / Geometric Deep Learning
 - Deep Reinforcement Learning
 
-<br>
-<br>
-
