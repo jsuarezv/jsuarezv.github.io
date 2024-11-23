@@ -9,8 +9,8 @@ profile:
   image: prof_pic.png
   image_circular: true # crops the image to make it circular
   more_info:
-    <p>🏢 Telefonica Research <br> </p>
-    <p>📍 Madrid, Spain <br></p>
+    <p>🏢 Telefonica Research <br> <br> </p>
+    <p>📍 Madrid, Spain <br> <br> </p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
