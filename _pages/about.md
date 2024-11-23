@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info:
     <p>🏢 Telefonica Research</p>
-    <p>📍 Madrid, Spain</p>
+    <p>📍 Madrid, Spain</p> <br>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
