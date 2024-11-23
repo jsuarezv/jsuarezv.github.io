@@ -26,10 +26,11 @@ Hi! I am a Research Scientist at Telefónica Research, from 2022. Prior to this,
 In the past, I was co-Principal Investigator of the IGNNITION project (H2020 NGI POINTER), and main organizer of the Graph Neural Networking challenge, an international competition co-organized with the ITU (United Nations).
 
 The following is a non-exhaustive list of my research interests:
-- Machine Learning applied to communication networks
-- Network Planning and Operations
+- AI/ML applied to communication networks
 - Network Digital Twins
-- Traffic Monitoring and Analysis
+- Mobile Network Planning and Operations
+- Network Monitoring and Analysis
+- Generative AI
 - Graph-based Deep Learning / Geometric Deep Learning
 - Deep Reinforcement Learning
 
