@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: profile-photo.jpg
+  image: profile-photo-square.jpg
   image_circular: true # crops the image to make it circular
   more_info:
     <p>🏢 Telefonica Research <br> <br> </p>
