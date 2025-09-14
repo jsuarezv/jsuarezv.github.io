@@ -37,10 +37,10 @@ The following is a non-exhaustive list of my research interests:
 - Deep Reinforcement Learning
 {% endcomment %}
 
-- AI/ML applied to communication networks
-- Multivariate Time series analysis & anomaly detection
+- AI/ML applied to Communication Networks
+- Multivariate Time Series Analysis & Anomaly Detection
 - Time Series Foundation Models for Networks
-- Geo-spatial Data Analysis & Modeling
+- Geo-Spatial Data Analysis & Modeling
 - GenAI for Privacy-Preserving Mobility Data Generation
 - Graph-based Deep Learning / Geometric Deep Learning
 - Deep Reinforcement Learning
