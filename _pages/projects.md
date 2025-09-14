@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: TBD
-nav: true
+nav: false # Se it to "true" to show the tab on the webpage
 nav_order: 2
 display_categories: [work, fun]
 horizontal: false
