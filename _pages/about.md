@@ -9,7 +9,7 @@ profile:
   image: profile-photo-square.jpg
   image_circular: true # crops the image to make it circular
   more_info:
-    <p>🏢 Telefónica Research <br> <br> </p>
+    <p>🏢 Telefónica Innovación Digital <br> <br> </p>
     <p>📍 Madrid, Spain <br> <br> </p>
 
 news: false  # includes a list of news items
@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 <b>Click the envelope ✉️ below to check my email 👇👇</b>
 <br>
 <br>
-Hi! I am an Applied AI Research Scientist at Telefónica Research, from 2022. My work focuses on the application of Artificial Intelligence (AI) to communication networks and digital services. This includes research and innovation efforts in AI-based network optimization, privacy-preserving AI algorithms, anomaly detection, and network data science. I actively collaborate with researchers from academic institutions and research centers, and participate in several EU-funded projects aimed at developing AI-driven technologies for future networks.
+Hi! I am an Applied AI Research Scientist at Telefónica Innovación Digital, from 2022. My work focuses on the application of Artificial Intelligence (AI) to communication networks and digital services. This includes research and innovation efforts in AI-based network optimization, privacy-preserving AI algorithms, anomaly detection, and network data science. I actively collaborate with researchers from academic institutions and research centers, and participate in several EU-funded projects aimed at developing AI-driven technologies for future networks.
 
 Prior to this, I was a postdoctoral researcher at the Barcelona Neural Networking center (BNN-UPC), between 2020 and 2022. I hold a Ph.D. in Computer Architecture from the Universitat Politècnica de Catalunya (UPC), in 2020, and a B.Sc and M.Sc. degrees in Telecommunication Engineering from the Universidad de Granada (UGR). I was co-Principal Investigator of the IGNNITION project (H2020 NGI POINTER), and main organizer of the GNNet challenge 2020-2022, an international competition co-organized with ITU-T (United Nations).
 
