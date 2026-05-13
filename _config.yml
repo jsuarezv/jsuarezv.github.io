@@ -6,13 +6,13 @@ title: José Suárez-Varela, PhD # the website title (if blank, full name will b
 first_name: José
 middle_name:
 last_name: Suárez-Varela
-email: jose.suarez-varela@telefonica.com
+email: jose-rafael.suarez-varela@bde.es
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Official website of José Suárez-Varela, PhD. A researcher scientist focused on artificial intelligence, machine learning and Deep Learning applied to communication networks.
+  Official website of José Suárez-Varela, PhD. A senior data scientist focused on applied artificial intelligence and machine learning.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with al-folio theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: Jose Suarez-Varela, research scientist, machine learning, artificial intelligence, communication networks  # add your own keywords or leave empty
+keywords: Jose Suarez-Varela, data science, machine learning, artificial intelligence  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 💻  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
